@@ -239,7 +239,7 @@ header {
     box-sizing: border-box;
     border-radius: 8px;
     border: 1px solid #9E9E9E;
-    max-width: 620px;
+    width: 620px;
     height: 45px;
 }
 
